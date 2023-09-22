@@ -7,3 +7,4 @@ git add - сохранение
 
 git status - показывает состояние репозитория
 git branch - вывод всех веток
+git branch name - создать ветку
